@@ -1,7 +1,7 @@
-# Cloud-Based-Online-Voting-System:-
+Cloud-Based-Online-Voting-System:-
 
 
-
+![Image_alt](https://github.com/ashukr5270/Cloud-Based-Online-Voting-System/blob/main/Cloud%20Voting%20Image%20.jpeg?raw=true)
 
 
 # Example Voting App
